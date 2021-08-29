@@ -3,13 +3,12 @@
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
-- [How to Use](#howtouse)
+- [Usage](#usage)
 - [Demonstration](#demonstration)
-- [Deployed](#deployed)
+- [Deployed](#deployedapplicationlink)
 - [Screenshot](#screenshot)
 - [Contribution](#contribution)
 
-<br>
 <br>
 
 ## Description
@@ -23,7 +22,7 @@ npm i
 ```
 <br>
 
-## How to Use
+## Usage
 
 Clone the repository to your local machine using:
 ```
