@@ -1,0 +1,25 @@
+{
+  "name": "team-prof-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  },
+  "devDependencies": {
+    "jest": "^27.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ven-kim/team-prof-gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ven-kim/team-prof-gen/issues"
+  },
+  "homepage": "https://github.com/ven-kim/team-prof-gen#readme"
+}
