@@ -1,0 +1,14 @@
+body {
+	font-family: 'Maven Pro', sans-serif;}
+
+li:hover {
+	background-color: lightblue;
+}
+
+a {
+	color: black;
+}
+a:hover {
+	background-color: white;        
+	border-radius: 10%;
+}
